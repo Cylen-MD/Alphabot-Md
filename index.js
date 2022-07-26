@@ -1645,6 +1645,10 @@ break
 ├ Platform : ${os.platform()}
 ╰❒ Runtime : ${runtime(process.uptime())}
 
+╭─❒  「 Iklan🤖 」
+├ https://cyleninformasi.blogspot.com/2022/07/all-information.html
+╰❒
+
 ╭─❒ 「 User Info 」 
 ├ Name : ${pushname}
 ├ Bio : ${bio}
